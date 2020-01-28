@@ -3,7 +3,7 @@
 # 作者：Slash
 # 实验日期：20200119
 # Python版本：3.7
-# 主题：基于深度优先和宽度优先的搜索算法的简单实现
+# 主题：基于宽度优先的搜索算法的简单实现
 
 import pandas as pd
 from pandas import Series, DataFrame
